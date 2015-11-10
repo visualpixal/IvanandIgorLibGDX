@@ -1,0 +1,47 @@
+
+robotsfull.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+robotleftboost
+  rotate: false
+  xy: 1, 5
+  size: 100, 201
+  orig: 100, 201
+  offset: 0, 0
+  index: -1
+robotleftidle
+  rotate: false
+  xy: 103, 5
+  size: 100, 201
+  orig: 100, 201
+  offset: 0, 0
+  index: -1
+robotrightboost
+  rotate: false
+  xy: 205, 5
+  size: 100, 201
+  orig: 100, 201
+  offset: 0, 0
+  index: -1
+robotrightidle
+  rotate: false
+  xy: 307, 5
+  size: 100, 201
+  orig: 100, 201
+  offset: 0, 0
+  index: -1
+dark
+  rotate: false
+  xy: 1, 1
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 409, 204
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
